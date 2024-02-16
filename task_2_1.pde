@@ -14,9 +14,9 @@ String Bigletters(String input) {
 
 boolean UpperCaseFirstLetter(String a) {
   char firstchar=a.charAt(0);
-  boolean UpperCaseFirstLetter=Character.isUpperCase(firstchar);
+  boolean isUpperCaseFirstLetter=Character.isUpperCase(firstchar);
   println(UpperCaseFirstLetter);
-  return UpperCaseFirstLetter;
+  return isUpperCaseFirstLetter;
 }
 //2.e
 

@@ -12,5 +12,5 @@ boolean happy = true;
 }
 
 boolean iAmHappy(){ 
-  return true;
+  return happy;
 }
